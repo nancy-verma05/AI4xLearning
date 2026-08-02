@@ -1,0 +1,70 @@
+Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are closely related technologies, but they are not the same. 
+    AI is the broad concept of making machines intelligent.
+    ML is a subset of AI that enables systems to learn from data.
+    DL is a subset of ML that uses deep neural networks to solve complex problems. 
+    
+AI → ML → DL
+
+What is Artificial Intelligence (AI)?
+
+AI is the science of making machines perform tasks that normally require human intelligence. Such as - Reasoning, Decision making, Language understanding, problem solving
+Examples:
+    ChatGPT
+    Alexa
+    Siri
+
+What is Machine Learning (ML)?
+
+Machine Learning is a technique that allows computers to learn from data instead of relying only on manually programmed rules.
+Instead of telling the computer every rule, we provide examples, and it learns from them.
+
+Example: 
+    Email Spam detection
+    Fraud Detection
+    Product recommendation based on customer preference
+
+What is Deep Learning (DL)?
+
+Deep Learning is a specialized branch of Machine Learning that uses deep neural networks with multiple layers to automatically learn complex patterns from large amounts of data.
+
+It performs exceptionally well for image recognition, speech recognition, and natural language processing.
+
+Example: 
+    Face unlock
+    Voice assistants
+
+
+Explanation in Layman terms:
+
+AI: You give the rules.
+Example: 
+    Dogs have four legs.
+    Dogs bark.
+    Dogs have a tail.
+AI follows those rules.
+
+ML: Instead of rules, you show thousands of pictures of dogs and non-dogs.
+The system learns from the pattern and recognize who is dog and who is not.
+
+DL: You show millions of pictures. It automatically learns:
+    ears    
+    eyes
+    nose
+    fur
+    body shape
+without anyone explaining what to look for.
+
+
+
+AI vs ML vs DL Comparison
+Feature	            AI	                    ML	                DL
+Full Form	        Artificial Intelligence	Machine Learning	Deep Learning
+Scope	            Broadest field	        Subset of AI	    Subset of ML
+Learning	        Rules or learning	    Learns from data	Learns using deep neural networks
+Human Intervention	High	                Medium	            Low
+Data Requirement	Low to High	            Medium	            Very High
+Feature Engineering	Manual	                Mostly Manual	    Automatic
+Training Time	    Low	                    Medium	            High
+Examples	        Siri, Chess AI	        Spam Filter,        ChatGPT, Face Recognition
+                                            Recommendation 
+                                            System	
